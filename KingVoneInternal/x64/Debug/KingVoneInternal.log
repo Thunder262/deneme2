@@ -1,0 +1,360 @@
+﻿  dllmain.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\CRT.h(90,10): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(217,10): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(220,49): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(230,11): error C2065: 'NAN': bildirimi yapılmamış tanımlayıcı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,26): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,38): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,24): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,72): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,120): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,21): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,47): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,71): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,98): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(530,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(566,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(598,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+  OnGUI.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\CRT.h(90,10): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(217,10): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(220,49): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(230,11): error C2065: 'NAN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,26): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,38): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,24): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,72): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,120): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,21): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,47): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,71): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,98): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(530,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(566,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(598,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(93,39): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,22): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,31): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,40): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,49): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(139,19): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(141,20): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(143,18): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(145,21): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(266,24): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(338,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(357,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  Hooks.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\CRT.h(90,10): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(217,10): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(220,49): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(230,11): error C2065: 'NAN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,26): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,38): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,24): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,72): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,120): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,21): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,47): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,71): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,98): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(530,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(566,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(598,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+  Update.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\CRT.h(90,10): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(217,10): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(220,49): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(230,11): error C2065: 'NAN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,26): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,38): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,24): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,72): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,120): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,21): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,47): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,71): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,98): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(530,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(566,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(598,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+  Dump.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\CRT.h(90,10): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(217,10): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(220,49): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(230,11): error C2065: 'NAN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,26): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,38): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,24): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,72): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,120): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,21): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,47): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,71): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,98): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(530,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(566,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(598,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Dump\Dump.cpp(7,33): warning C4244: '=': 'DWORD64' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Dump\Dump.cpp(8,27): warning C4244: '=': 'DWORD64' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Dump\Dump.cpp(9,36): warning C4244: '=': 'DWORD64' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Dump\Dump.cpp(22,31): warning C4244: '=': 'DWORD64' - 'uint32_t' dönüşümü; veri kaybı olabilir
+  Engine.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\CRT.h(90,10): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(217,10): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(220,49): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(230,11): error C2065: 'NAN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,26): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,38): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,24): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,72): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,120): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,21): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,47): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,71): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,98): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(530,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(566,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(598,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+  Game.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\CRT.h(90,10): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(217,10): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(220,49): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(230,11): error C2065: 'NAN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,26): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(258,38): error C2065: 'INFINITY': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,24): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,72): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(365,120): warning C4002: 'powFFFFFFFFFFFFFFFFFFFFFF' işlev benzeri makro çağrısı için çok fazla bağımsız değişken var
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,21): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,47): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,71): error C2065: 'FLT_MAX': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(589,98): error C2065: 'FLT_MIN': bildirimi yapılmamış tanımlayıcı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(530,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(566,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\SDK\Engine\Engine.h(598,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+  Kod Üretiliyor...

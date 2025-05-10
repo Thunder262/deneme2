@@ -1,0 +1,201 @@
+﻿cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+  dllmain.cpp
+cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+  OnGUI.cpp
+cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+  Hooks.cpp
+cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+  Update.cpp
+  Dump.cpp
+  Engine.cpp
+cl : komut satırı  warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+  Game.cpp
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2589: '(': '::' sağ tarafında geçersiz belirteç var
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2589: '(': '::' sağ tarafında geçersiz belirteç var
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2059: sözdizimi hatası: ')'
+  ('dllmain.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2059: sözdizimi hatası: ')'
+  ('Hooks/Hooks.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2589: '(': '::' sağ tarafında geçersiz belirteç var
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2059: sözdizimi hatası: ')'
+  ('Hooks/PerformanceUI/Update.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2589: '(': '::' sağ tarafında geçersiz belirteç var
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2059: sözdizimi hatası: ')'
+  ('SDK/Engine/Engine.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2589: '(': '::' sağ tarafında geçersiz belirteç var
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2059: sözdizimi hatası: ')'
+  ('Hooks/DevControls/OnGUI.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2589: '(': '::' sağ tarafında geçersiz belirteç var
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2059: sözdizimi hatası: ')'
+  ('SDK/Dump/Dump.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2589: '(': '::' sağ tarafında geçersiz belirteç var
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(33,21): error C2059: sözdizimi hatası: ')'
+  ('SDK/Game/Game.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(3,1): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(3,9): error C2146: sözdizimi hatası: ';' eksik ('pViewMatrix' tanımlayıcısından önce)
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(40,3): error C2065: 'pViewMatrix': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(40,27): error C2672: 'MemUtils::read': eşleşen aşırı yüklenmiş işlev bulunamadı
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\Memory\memory.h(10,5):
+      'T &MemUtils::read(A)' olabilirdi
+          C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(40,32):
+          'MemUtils::read': 'T' için şablon bağımsız değişkeni geçersiz, tür bekleniyor
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(46,8): error C2065: 'pViewMatrix': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(50,21): error C2065: 'pViewMatrix': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(50,14): error C2737: 'temp': const nesnesinin başlatılması gerekiyor
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(52,38): error C3536: 'temp': başlatılmadan önce kullanılamaz
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(52,44): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(52,56): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(52,68): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(53,28): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(53,40): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(53,52): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(54,31): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(54,43): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(54,55): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(56,54): error C2109: indis için dizi veya işaretçi türü gereklidir
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,14): error C3878: sözdizimi hatası: 'expression'den sonra beklenmeyen belirteç 'ret'
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,29): error C2760: söz dizimi hatası: burada ',' beklenmiyordu; ';' bekleniyordu
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,29): error C3878: sözdizimi hatası: 'expression-statement'den sonra beklenmeyen belirteç ','
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,57): error C2760: söz dizimi hatası: burada '}' beklenmiyordu; ';' bekleniyordu
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(106,58): error C2059: sözdizimi hatası: ';'
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(108,8): error C2065: 'player': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(109,11): error C2653: 'box_bounds': bir sınıf veya ad alanı adı değil
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(109,23): error C3861: 'null': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(117,21): error C2065: 'player': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(118,8): error C3536: 'world_pos': başlatılmadan önce kullanılamaz
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,8): error C2664: 'bool DevControls::OnGUI::<lambda_2>::operator ()(const Vector3 &,Vector2 &) const' : 1 bağımsız değişkeni 'int' değerinden 'const Vector3 &' değerine dönüştürülemez
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+      Nedeni: 'int' değerinden 'const Vector3' değerine dönüştürülemez
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+      'Vector3::Vector3': hiçbir aşırı yüklenmiş işlev tüm argüman türlerini dönüştüremez
+          C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(151,1):
+          'Vector3::Vector3(Vector3 &&)' olabilirdi
+              C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+              'Vector3::Vector3(Vector3 &&)' : 1 bağımsız değişkeni 'int' değerinden 'Vector3 &&' değerine dönüştürülemez
+                  C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+                  Nedeni: 'int' değerinden 'Vector3' değerine dönüştürülemez
+                  C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+                  Dönüştürme ikinci bir kullanıcı tanımlı dönüştürme işleci veya oluşturucu gerektiriyor
+          C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Other\math.h(151,1):
+          veya       'Vector3::Vector3(const Vector3 &)'
+              C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+              'Vector3::Vector3(const Vector3 &)' : 1 bağımsız değişkeni 'int' değerinden 'const Vector3 &' değerine dönüştürülemez
+                  C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+                  Nedeni: 'int' değerinden 'const Vector3' değerine dönüştürülemez
+                  C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+                  Dönüştürme ikinci bir kullanıcı tanımlı dönüştürme işleci veya oluşturucu gerektiriyor
+          C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,22):
+          '(int)' bağımsız değişken listesi eşlenmeye çalışılırken
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(45,2):
+      'DevControls::OnGUI::<lambda_2>::operator ()' bildirimine bakın
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(124,8):
+      '(int, Vector2)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(128,25): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(129,6): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(130,25): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(131,6): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(132,25): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(133,6): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(134,25): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(135,6): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(139,7): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(140,11): error C2653: 'box_bounds': bir sınıf veya ad alanı adı değil
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(140,23): error C3861: 'null': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(141,7): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(142,11): error C2653: 'box_bounds': bir sınıf veya ad alanı adı değil
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(142,23): error C3861: 'null': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(143,7): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(144,11): error C2653: 'box_bounds': bir sınıf veya ad alanı adı değil
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(144,23): error C3861: 'null': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(145,7): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(146,11): error C2653: 'box_bounds': bir sınıf veya ad alanı adı değil
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(146,23): error C3861: 'null': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(148,3): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(148,15): error C2065: 'expand': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(149,3): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(149,16): error C2065: 'expand': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(150,3): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(150,14): error C2065: 'expand': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(151,3): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(151,17): error C2065: 'expand': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(153,10): error C2065: 'ret': bildirimi yapılmamış tanımlayıcı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(109,4): error C2562: 'DevControls::OnGUI': 'void' işlev değer döndürüyor
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(29,19):
+      'DevControls::OnGUI' bildirimine bakın
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(140,4): error C2562: 'DevControls::OnGUI': 'void' işlev değer döndürüyor
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(29,19):
+      'DevControls::OnGUI' bildirimine bakın
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(142,4): error C2562: 'DevControls::OnGUI': 'void' işlev değer döndürüyor
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(29,19):
+      'DevControls::OnGUI' bildirimine bakın
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(144,4): error C2562: 'DevControls::OnGUI': 'void' işlev değer döndürüyor
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(29,19):
+      'DevControls::OnGUI' bildirimine bakın
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(146,4): error C2562: 'DevControls::OnGUI': 'void' işlev değer döndürüyor
+      C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(29,19):
+      'DevControls::OnGUI' bildirimine bakın
+  
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(177,7): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(178,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(179,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(180,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(181,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(182,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(183,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(184,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(185,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(186,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(187,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(188,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(189,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(190,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(191,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(192,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(193,4): error C3861: 'WorldToScreen': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(195,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(196,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(197,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(198,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(199,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(200,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(201,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(202,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(203,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(204,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(205,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(206,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(207,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(208,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(209,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(210,4): error C3861: 'DrawLine': tanımlayıcı bulunamadı
+C:\Users\zamsokvorechnii\Desktop\denemeler\kingvoneinternal-main\KingVone Internal\Hooks\DevControls\OnGUI.cpp(210,4): error C1003: hata sayısı 100 taneyi aştı; derleme durduruluyor
